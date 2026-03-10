@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://44.212.29.255:8081/repository/Javarepo/</url>
+		    <url>http://44.203.151.253:8081/repository/Slave/</url>
 		</repository>
   	</distributionManagement>
 	
